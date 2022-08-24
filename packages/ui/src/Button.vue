@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <div :style="{border: '1px solid red', padding: '10px', display: 'inline-block'}">
+    <div :style="{border: '1px solid pink', padding: '10px', display: 'inline-block'}">
         <slot></slot>
     </div>
 </template>
