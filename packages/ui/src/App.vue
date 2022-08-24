@@ -2,7 +2,6 @@
 // This starter template is using Vue 3 <script setup> SFCs
 // Check out https://vuejs.org/api/sfc-script-setup.html#script-setup
 import HelloWorld from './components/HelloWorld.vue'
-import { Button } from "ui"
 </script>
 
 <template>
@@ -14,8 +13,7 @@ import { Button } from "ui"
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue App1" />
-  <Button>Share Button</Button>
+  <HelloWorld msg="Vite + Vue" />
 </template>
 
 <style scoped>
