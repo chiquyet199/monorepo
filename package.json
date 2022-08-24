@@ -11,6 +11,8 @@
     "dev": "turbo run dev --parallel",
     "dev:app1": "turbo run dev --scope=app1",
     "build:app1": "turbo run build --scope=app1",
+    "dev:app2": "turbo run dev --scope=app2",
+    "build:app2": "turbo run build --scope=app2",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
