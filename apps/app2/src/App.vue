@@ -14,7 +14,7 @@ import { Button } from "ui"
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="Vite + Vue App2" />
+  <HelloWorld msg="Vite App2" />
   <Button>Share Button</Button>
 </template>
 
