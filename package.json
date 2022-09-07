@@ -19,7 +19,8 @@
   "devDependencies": {
     "eslint-config-custom": "*",
     "prettier": "latest",
-    "turbo": "latest"
+    "turbo": "latest",
+    "vite": "^3.0.7"
   },
   "engines": {
     "npm": ">=7.0.0",
