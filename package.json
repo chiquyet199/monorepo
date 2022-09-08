@@ -23,6 +23,9 @@
     "npm": ">=7.0.0",
     "node": ">=14.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "vite": "^3.0.7",
+    "@vitejs/plugin-vue": "^3.0.3"
+  },
   "packageManager": "npm@8.13.2"
 }
